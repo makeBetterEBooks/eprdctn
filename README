@@ -1,0 +1,4 @@
+Save these two scripts into you InDesign Scripts folder.
+
+The Export Script will check for File Info (Metadata for the OPF) then onpe the ePub Export Dialog with a set of standard options.
+The Caps script will change all text with an "all caps" style applied to true caps, so you don't have to rely on patchy support for text transformations.
