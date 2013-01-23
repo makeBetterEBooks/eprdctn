@@ -1,4 +1,6 @@
 Save these scripts into you InDesign Scripts folder. Double click the name in the scripts panel to run.
 
+These scripts were created as learning materials for a DBW 2013 workshop.
+
 The Export Script will check for File Info (Metadata for the OPF) then open the ePub Export Dialog with a set of standard options. Edit the script with your own choices.
 The Caps script will change all text with an "all caps" style applied to true caps, so you don't have to rely on patchy support for text transformations.
