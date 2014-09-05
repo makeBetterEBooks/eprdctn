@@ -17,7 +17,8 @@ app.scriptPreferences.enableRedraw = 0;
 app.doScript(thisFunction, ScriptLanguage.JAVASCRIPT, undefined, UndoModes.ENTIRE_SCRIPT, "Split Story");
 var myScriptVer = "3.0";
  
- 
+function thisFunction (){
+
 if(app.documents.length != 0){
           var mySelection = app.activeDocument.selection;
           if(mySelection.length != 0){
@@ -143,4 +144,4 @@ function mySplitAfter(){
                     }
           }
 }
- 
+}
